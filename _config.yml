@@ -1,0 +1,29 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+#relative_permalinks: true
+
+# Setup
+title:            Disoka
+tagline:          'A Technology Solutions Company'
+description:      'A technology Strategy, Design and Solutions company.'
+url:              http://disoka.github.io
+baseurl:          http://disoka.github.io
+
+gems: [jekyll-paginate]
+paginate_path: "page:num"
+
+author:
+  name:           'Disoka'
+  url:            https://twitter.com/
+
+paginate:         5
+
+# Custom vars
+version:          0.1.0
+
+github:
+  repo:           https://github.com/disoka/disoka.github.io

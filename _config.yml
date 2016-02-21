@@ -11,7 +11,7 @@ title:            Disoka
 tagline:          'A Technology Solutions Company'
 description:      'A technology Strategy, Design and Solutions company.'
 url:              http://disoka.github.io/
-baseurl:          http://disoka.github.io
+baseurl:          http://disoka.github.io/
 
 gems: [jekyll-paginate]
 paginate_path: "page:num"

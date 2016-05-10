@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Disoka</title>
- <link href="http://disoka.github.io/atom.xml" rel="self"/>
- <link href="http://disoka.github.io/"/>
- <updated>2016-02-21T10:33:18-05:00</updated>
- <id>http://disoka.github.io</id>
+ <link href="http://disoka.github.io//atom.xml" rel="self"/>
+ <link href="http://disoka.github.io//"/>
+ <updated>2016-05-09T22:31:19-04:00</updated>
+ <id>http://disoka.github.io/</id>
  <author>
    <name>Disoka</name>
    <email></email>
@@ -13,24 +13,24 @@
 
  
  <entry>
-   <title>New Post</title>
-   <link href="http://disoka.github.io/2016/02/21/new-post/"/>
-   <updated>2016-02-21T00:00:00-05:00</updated>
-   <id>http://disoka.github.io/2016/02/21/new-post</id>
-   <content type="html">&lt;h3&gt;New Post&lt;/h3&gt;
-
-&lt;p&gt;New Post Content.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
    <title>API</title>
-   <link href="http://disoka.github.io/2016/02/20/api/"/>
+   <link href="http://disoka.github.io//2016/02/20/api/"/>
    <updated>2016-02-20T00:00:00-05:00</updated>
-   <id>http://disoka.github.io/2016/02/20/api</id>
+   <id>http://disoka.github.io//2016/02/20/api</id>
    <content type="html">&lt;h3&gt;Application Programming Interface (API)&lt;/h3&gt;
 
-&lt;p&gt;Designing, building and delivering with the API for your business. Using API as your business&amp;#39; strategic advantage.&lt;/p&gt;
+&lt;p&gt;Designing, building and delivering with the API for your business. Using API as 
+your business&amp;#39; strategic advantage.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/benedictevans-tweet-06feb2016.png&quot; alt=&quot;mobile companies created by APIs&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Link to tweet: &lt;a href=&quot;https://twitter.com/BenedictEvans/status/696035630875152385&quot;&gt;https://twitter.com/BenedictEvans/status/696035630875152385&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;References&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://readwrite.com/2013/11/29/company-without-api-computer-without-internet/&quot;&gt;A Company without APIs is like a computer without internet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </content>
  </entry>
  

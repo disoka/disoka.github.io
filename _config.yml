@@ -10,8 +10,8 @@ permalink:        pretty
 title:            Disoka
 tagline:          'A Technology Solutions Company'
 description:      'A technology Strategy, Design and Solutions company.'
-url:              http://disoka.github.io/
-baseurl:          http://disoka.github.io
+url:              'disoka.com'
+baseurl:          ''
 
 gems: [jekyll-paginate]
 paginate_path: "page:num"
@@ -27,3 +27,8 @@ version:          0.1.0
 
 github:
   repo:           https://github.com/disoka/disoka.github.io
+
+# List of pages to include in the header.
+pages_list:       
+  About: '/about/'
+  Capabilities: '/capabilities/'

@@ -6,10 +6,10 @@ title: Privacy Policy
 
 This privacy policy discloses the privacy practices for Disoka.com. This privacy policy applies solely to information collected by this web site. It will notify you of the following:
 
-What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.
-What choices are available to you regarding the use of your data.
-The security procedures in place to protect the misuse of your information.
-How you can correct any inaccuracies in the information.
+- What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.
+- What choices are available to you regarding the use of your data.
+- The security procedures in place to protect the misuse of your information.
+- How you can correct any inaccuracies in the information.
 
 
 ### Information Collection, Use, and Sharing 

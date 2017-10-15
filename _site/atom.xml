@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Disoka</title>
- <link href="disoka.com/atom.xml" rel="self"/>
- <link href="disoka.com/"/>
- <updated>2016-06-15T23:17:37-04:00</updated>
- <id>disoka.com</id>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2017-10-15T09:23:08-04:00</updated>
+ <id>http://localhost:4000</id>
  <author>
    <name>Disoka</name>
    <email></email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>API</title>
-   <link href="disoka.com/2016/02/20/api/"/>
+   <link href="http://localhost:4000/2016/02/20/api/"/>
    <updated>2016-02-20T00:00:00-05:00</updated>
-   <id>disoka.com/2016/02/20/api</id>
+   <id>http://localhost:4000/2016/02/20/api</id>
    <content type="html">&lt;h3&gt;Application Programming Interface (API)&lt;/h3&gt;
 
 &lt;p&gt;Designing, building and delivering with the API for your business. Using API as 

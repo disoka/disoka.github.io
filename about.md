@@ -10,6 +10,6 @@ We would love to work with you to define your technology strategy and design and
 We focus on user outcomes and strive to design and develop secure, highly performing applications for you and your customers.
 
 Review our [Capabilities](/capabilities) page to learn more and 
-[Contact us](mailto:info@disoka.com) to get us started on your project(s).
+[Contact us](mailto:adapa@disoka.com) to get us started on your project(s).
 
 

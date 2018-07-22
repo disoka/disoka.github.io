@@ -39,4 +39,4 @@ We take precautions to protect your information. When you submit sensitive infor
 
 Our Privacy Policy may change from time to time and all updates will be posted on this page.
 
-*Last Updated: June 2016*
+*Last Updated: June 2018*

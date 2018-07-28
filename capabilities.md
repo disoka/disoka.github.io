@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Capabilities
+company: Disoka
+categories: services
 ---
 
 ### _Capabilities combined with execution is key to our clients' success._
